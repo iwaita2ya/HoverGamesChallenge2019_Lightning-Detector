@@ -1,5 +1,7 @@
 # Lightning Detector
 
+![EyeCatch](https://github.com/iwaita2ya/ImageStore/blob/master/hovergame-challenge-2019-lightning-detector.png)
+
 This repository holds a lightning detector source code, which watches the events of lightning 
 and post them to the API server.
 
@@ -22,6 +24,7 @@ This programs works on [mbed LPC1768](https://os.mbed.com/platforms/mbed-LPC1768
 * Ethernet via RJ45 MagJack ( like [this one](https://www.sparkfun.com/products/13021) )
 * MicroSD card via [MicroSD Socket](https://www.adafruit.com/product/1660)
 
+![Schema](https://github.com/iwaita2ya/ImageStore/blob/master/hovergame-challenge-2019-lightning-detector-schema.png)
 Please see [here](https://drive.google.com/open?id=1k-RoowdKZajJ39Wr6T17Nuam9WXz578P) for the complete schematic circuit diagram.
 
 ## Installation
